@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../maisha"
+		},
+		{
+			"path": "../shoping ui"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "maisha"
+	}
+}
